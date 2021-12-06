@@ -41,6 +41,7 @@ body.data.iapPurchaseVO.purchase = true;
 body.data.iapPurchaseVO.message = null;
 body.data.iapPurchaseVO.error = null;
 body = JSON.stringify(body);
+console.log(body);
 }
 
 $done({body})
