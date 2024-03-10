@@ -1,10 +1,10 @@
 # Advertising 广告
 # > General
 DOMAIN-KEYWORD,adservice,REJECT
+#host-suffix, pangolin-sdk-toutiao-b.com, reject
 host-suffix, pangolin-sdk-toutiao.com, reject
-host-suffix, pangolin-sdk-toutiao-b.com, reject
-host-suffix, pglstatp-toutiao.com, reject
 host-suffix, pangolin-sdk-toutiao1.com, reject
+host-suffix, pglstatp-toutiao.com, reject
 DOMAIN-SUFFIX,adcolony.com,REJECT
 DOMAIN-SUFFIX,adinall.com,REJECT
 DOMAIN-SUFFIX,admaster.com.cn,REJECT
