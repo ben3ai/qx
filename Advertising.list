@@ -1,6 +1,38 @@
 # Advertising 广告
 # > General
 DOMAIN-KEYWORD,adservice,REJECT
+host-suffix, pangolin-sdk-toutiao-b.com, reject
+host-suffix, pglstatp-toutiao.com, reject
+host-suffix, pangolin-sdk-toutiao.com, reject
+host-suffix, pangolin-sdk-toutiao1.com, reject
+host, mssdk-bu.bytedance.com, reject
+host-suffix, appsflyersdk.com, reject
+host, media-show.zxzt123.com, reject
+host, dsp-x.jd.com, reject
+host, adashxgc.ut.taobao.com, reject
+host, sensor.picooc.com, reject
+host, huichuan.sm.cn, reject
+host-suffix, 1rtb.net, reject
+host-suffix, 1rtb.com, reject
+host, open.e.kuaishou.com, reject
+host-suffix, hzshudian.com, reject
+host, toblog.volceapplog.com, reject
+host-suffix, ctobsnssdk.com, reject
+host-suffix, umengcloud.com, reject
+host, dspsdk.pinduoduo.com, reject
+host, sdk.e.qq.com, reject
+host-suffix, umeng.com, reject
+host, mobads-logs.baidu.com, reject
+host-suffix, volces.com, reject
+host-suffix, zijieapi.com, reject
+host-suffix, log.aliyuncs.com, reject
+host-suffix, bcebos.com, reject
+host-suffix, ubixioe.com, reject
+host, mobads.baidu.com, reject
+host-suffix, sigmob.cn, reject
+host, hmma.baidu.com, reject
+host, pufferstatis.xdrtc.com, reject
+host, ss0.bdstatic.com, reject
 DOMAIN-SUFFIX,adcolony.com,REJECT
 DOMAIN-SUFFIX,adinall.com,REJECT
 DOMAIN-SUFFIX,admaster.com.cn,REJECT
